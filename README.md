@@ -1,6 +1,6 @@
 # readme-redirect
 
-The [GNU ARM Eclipse](https://github.com/gnuarmeclipse) project was recently extended to include support for RISC-V devices, and since it is now multi-platform, it is rebranding as [GNU MCU Eclipse](https://github.com/gnu-mcu-eclipse).
+The [GNU ARM Eclipse](https://github.com/gnuarmeclipse) project was recently extended to include support for [RISC-V](https://riscv.org) devices, and since it is now multi-platform, it is rebranding as [GNU MCU Eclipse](https://github.com/gnu-mcu-eclipse).
 
 * the [gnuarmeclipse/plug-ins](https://gnuarmeclipse/plug-ins) repository was moved to [gnu-mcu-eclipse/eclipse-plugins](https://github.com/gnu-mcu-eclipse/eclipse-plugins);
 * the [gnuarmeclipse/openocd](https://gnuarmeclipse/openocd) repository was moved to [gnu-mcu-eclipse/openocd](https://github.com/gnu-mcu-eclipse/openocd);
